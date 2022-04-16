@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\GroupsApp\GroupsApp\bin\Debug\net5.0\GroupsApp.exe
+C:\Users\User\source\repos\GroupsApp\GroupsApp\bin\Debug\net5.0\GroupsApp.deps.json
+C:\Users\User\source\repos\GroupsApp\GroupsApp\bin\Debug\net5.0\GroupsApp.runtimeconfig.json
+C:\Users\User\source\repos\GroupsApp\GroupsApp\bin\Debug\net5.0\GroupsApp.runtimeconfig.dev.json
+C:\Users\User\source\repos\GroupsApp\GroupsApp\bin\Debug\net5.0\GroupsApp.dll
+C:\Users\User\source\repos\GroupsApp\GroupsApp\bin\Debug\net5.0\ref\GroupsApp.dll
+C:\Users\User\source\repos\GroupsApp\GroupsApp\bin\Debug\net5.0\GroupsApp.pdb
+C:\Users\User\source\repos\GroupsApp\GroupsApp\obj\Debug\net5.0\GroupsApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\GroupsApp\GroupsApp\obj\Debug\net5.0\GroupsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\GroupsApp\GroupsApp\obj\Debug\net5.0\GroupsApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\GroupsApp\GroupsApp\obj\Debug\net5.0\GroupsApp.AssemblyInfo.cs
+C:\Users\User\source\repos\GroupsApp\GroupsApp\obj\Debug\net5.0\GroupsApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GroupsApp\GroupsApp\obj\Debug\net5.0\GroupsApp.dll
+C:\Users\User\source\repos\GroupsApp\GroupsApp\obj\Debug\net5.0\ref\GroupsApp.dll
+C:\Users\User\source\repos\GroupsApp\GroupsApp\obj\Debug\net5.0\GroupsApp.pdb
+C:\Users\User\source\repos\GroupsApp\GroupsApp\obj\Debug\net5.0\GroupsApp.genruntimeconfig.cache
